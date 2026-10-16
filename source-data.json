@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "sourceAlbum": "https://2335499519.x.yupoo.com/albums/",
+  "status": "blocked",
+  "checkedAt": "2026-10-16T00:27:45Z",
+  "importedAt": null,
+  "blocker": "Initially proxy CONNECT 403. On recheck the proxy tunnel succeeded, but the source returned HTTP 567 and an access-protection page, not an album. No product data or photographs have been acquired. No placeholders or invented products are included.",
+  "products": []
+}
